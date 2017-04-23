@@ -13,4 +13,10 @@ import javafx.stage.Stage;
  * Created by Omar on 23/4/17.
  */
 public class screen1 {
+
+    @FXML
+    TextField txnum;
+
+    @FXML
+    Button btconv;
 }
