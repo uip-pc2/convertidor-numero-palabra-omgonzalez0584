@@ -1,5 +1,7 @@
+/* Omar Gonzalez
+Cedula 8-775-963
+ */
 package sample;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
